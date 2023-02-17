@@ -1,5 +1,5 @@
 
-          <div class="d-md-flex  align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
+#removed from index
 
 
     <!-- ======= Portfolio Section ======= -->
