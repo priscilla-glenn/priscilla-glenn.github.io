@@ -1,4 +1,4 @@
-Website for Priscilla Glenn, PhD
+Website for Priscilla Glenn Doupnik, PhD
 Postdoctoral Associate at Texas A&M University
 
 
